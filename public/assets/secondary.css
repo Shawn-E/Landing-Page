@@ -1,0 +1,56 @@
+:root {
+  --blue: #00ccff;
+  --black: #000000;
+  --white: #F7F5F2;
+  --grey: #DFDFDE;
+}
+
+/*---------- Skills (START) ----------*/
+
+.skills {
+  display: inline-block
+}
+
+.skill-logo {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.skill-text {
+  font-size: 1.5rem;
+  margin-top: .4rem;
+  font-weight: 600;
+}
+
+.skill-holder {
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background: none;
+  border: 1px solid #484D4D;
+  border-radius: 10px;
+  color: white;
+  padding: 1.0em 6.0em;
+  justify-content: space-evenly;
+  transition: all 0.5s ease-in-out;
+}
+
+.skill-holder:hover {
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: var(--blue);
+  border: 1px solid #484D4D;
+  border-radius: 10px;
+  color: white;
+  padding: 1.0em 6.0em;
+  justify-content: space-evenly;
+  opacity: 100%;
+}
+
+
+
+/*---------- Skills (END) ----------*/

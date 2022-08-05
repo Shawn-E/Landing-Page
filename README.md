@@ -1,6 +1,1 @@
-# EJS-WebTemplate
-A simple ExpressJS Web Template designed to be used for practically any project.
-
----
-
-Now includes Discord OAuth2 Login!
+My Landing Page featured at https://shawnengmann.com
